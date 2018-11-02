@@ -1,0 +1,6 @@
+D:\VS2017\Zool\Zool.Extensions\obj\Debug\Zool.Extensions.csprojResolveAssemblyReference.cache
+D:\VS2017\Zool\Zool.Extensions\obj\Debug\Zool.Extensions.csproj.CoreCompileInputs.cache
+D:\VS2017\Zool\Zool.Extensions\bin\Debug\Zool.Extensions.dll
+D:\VS2017\Zool\Zool.Extensions\bin\Debug\Zool.Extensions.pdb
+D:\VS2017\Zool\Zool.Extensions\obj\Debug\Zool.Extensions.dll
+D:\VS2017\Zool\Zool.Extensions\obj\Debug\Zool.Extensions.pdb
